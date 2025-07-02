@@ -1,0 +1,14 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/runner/Library/Developer/Xcode/DerivedData/DemoSecuritiSDK317-ggvfjmqjtdoeeqbrdavgdwavyfij/Build/Intermediates.noindex/ArchiveIntermediates/DemoSecuritiSDK317/InstallationBuildProductsLocation/Library/Frameworks/DemoSecuritiSDK317.framework/DemoSecuritiSDK317'
+relocations:
+  - { offset: 0x341F3, size: 0x8, addend: 0x0, symName: _DemoSecuritiSDK317VersionString, symObjAddr: 0x0, symBinAddr: 0x1CD0, symSize: 0x0 }
+  - { offset: 0x34227, size: 0x8, addend: 0x0, symName: _DemoSecuritiSDK317VersionNumber, symObjAddr: 0x40, symBinAddr: 0x1D10, symSize: 0x0 }
+  - { offset: 0x34263, size: 0x8, addend: 0x0, symName: '_$s18DemoSecuritiSDK3170A0C6sharedACvgZ', symObjAddr: 0x0, symBinAddr: 0xCA0, symSize: 0x20 }
+  - { offset: 0x342D9, size: 0x8, addend: 0x0, symName: '_$s18DemoSecuritiSDK3170A0CMa', symObjAddr: 0x20, symBinAddr: 0xCC0, symSize: 0x20 }
+  - { offset: 0x3430A, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0xE0, symBinAddr: 0xD80, symSize: 0x40 }
+  - { offset: 0x3432F, size: 0x8, addend: 0x0, symName: '_$s18DemoSecuritiSDK3170A0C6sharedACvgZ', symObjAddr: 0x0, symBinAddr: 0xCA0, symSize: 0x20 }
+  - { offset: 0x34381, size: 0x8, addend: 0x0, symName: '_$s18DemoSecuritiSDK3170A0C5printyyF', symObjAddr: 0x40, symBinAddr: 0xCE0, symSize: 0xA0 }
+  - { offset: 0x34403, size: 0x8, addend: 0x0, symName: '_$s18DemoSecuritiSDK3170A0Cfd', symObjAddr: 0x120, symBinAddr: 0xDC0, symSize: 0x10 }
+  - { offset: 0x34428, size: 0x8, addend: 0x0, symName: '_$s18DemoSecuritiSDK3170A0CfD', symObjAddr: 0x130, symBinAddr: 0xDD0, symSize: 0x20 }
+...

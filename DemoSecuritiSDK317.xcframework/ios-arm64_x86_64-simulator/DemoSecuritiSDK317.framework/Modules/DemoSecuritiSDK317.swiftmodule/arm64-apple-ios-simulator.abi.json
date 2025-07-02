@@ -1,0 +1,123 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "DemoSecuritiSDK317",
+    "printedName": "DemoSecuritiSDK317",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DemoSecuritiSDK317",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Demo",
+        "printedName": "Demo",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Demo",
+                "printedName": "DemoSecuritiSDK317.Demo",
+                "usr": "s:18DemoSecuritiSDK3170A0C"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18DemoSecuritiSDK3170A0C6sharedACvpZ",
+            "mangledName": "$s18DemoSecuritiSDK3170A0C6sharedACvpZ",
+            "moduleName": "DemoSecuritiSDK317",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Demo",
+                    "printedName": "DemoSecuritiSDK317.Demo",
+                    "usr": "s:18DemoSecuritiSDK3170A0C"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18DemoSecuritiSDK3170A0C6sharedACvgZ",
+                "mangledName": "$s18DemoSecuritiSDK3170A0C6sharedACvgZ",
+                "moduleName": "DemoSecuritiSDK317",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "print",
+            "printedName": "print()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18DemoSecuritiSDK3170A0C5printyyF",
+            "mangledName": "$s18DemoSecuritiSDK3170A0C5printyyF",
+            "moduleName": "DemoSecuritiSDK317",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:18DemoSecuritiSDK3170A0C",
+        "mangledName": "$s18DemoSecuritiSDK3170A0C",
+        "moduleName": "DemoSecuritiSDK317",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}
