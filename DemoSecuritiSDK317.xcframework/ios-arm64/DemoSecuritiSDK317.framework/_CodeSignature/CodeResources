@@ -6,11 +6,11 @@
 	<dict>
 		<key>DemoSecuritiSDK317-iOS_Simulator.xcarchive/Info.plist</key>
 		<data>
-		ynLUey8T9hgftc63E4syQYajHIY=
+		E4/ozVHW1lg37GiFYyB7k2m4B2k=
 		</data>
 		<key>DemoSecuritiSDK317-iOS_Simulator.xcarchive/Products/Library/Frameworks/DemoSecuritiSDK317.framework/DemoSecuritiSDK317</key>
 		<data>
-		tj5gTEZq1QdfC4ySa4mEpCRqsvE=
+		krcCzweW8pcy194zAbbA/Y5fGbk=
 		</data>
 		<key>DemoSecuritiSDK317-iOS_Simulator.xcarchive/Products/Library/Frameworks/DemoSecuritiSDK317.framework/Info.plist</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>DemoSecuritiSDK317-iOS_Simulator.xcarchive/Products/Library/Frameworks/DemoSecuritiSDK317.framework/Modules/DemoSecuritiSDK317.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		yXsofrYQ+62Z+j2XshrBzQrDKPg=
+		TQjxxQS1UWWtlAyRBZ08LHr4jl4=
 		</data>
 		<key>DemoSecuritiSDK317-iOS_Simulator.xcarchive/Products/Library/Frameworks/DemoSecuritiSDK317.framework/Modules/DemoSecuritiSDK317.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>DemoSecuritiSDK317-iOS_Simulator.xcarchive/Products/Library/Frameworks/DemoSecuritiSDK317.framework/Modules/DemoSecuritiSDK317.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		nfQ/Zmf9tFiQTYmhT3GvRX9RTv8=
+		ohg3u2CjeM3GEprxCAuMomdp0Pk=
 		</data>
 		<key>DemoSecuritiSDK317-iOS_Simulator.xcarchive/Products/Library/Frameworks/DemoSecuritiSDK317.framework/_CodeSignature/CodeResources</key>
 		<data>
-		AILBe6TOGKatUdNweVQwJXGcORs=
+		FvOTWTizq2NcD7/nsUxv5OFkVLg=
 		</data>
 		<key>DemoSecuritiSDK317-iOS_Simulator.xcarchive/Products/Library/Frameworks/DemoSecuritiSDK317.framework/create-framework.sh</key>
 		<data>
@@ -70,15 +70,15 @@
 		</data>
 		<key>DemoSecuritiSDK317-iOS_Simulator.xcarchive/dSYMs/DemoSecuritiSDK317.framework.dSYM/Contents/Resources/DWARF/DemoSecuritiSDK317</key>
 		<data>
-		hd44nubwOg6KSgEPOCDiSIuu13o=
+		g3QdOrQOGKWCW3iLvzBSi9g2ZBQ=
 		</data>
 		<key>DemoSecuritiSDK317-iOS_Simulator.xcarchive/dSYMs/DemoSecuritiSDK317.framework.dSYM/Contents/Resources/Relocations/aarch64/DemoSecuritiSDK317.yml</key>
 		<data>
-		K5lDpTI5N/TtABdY24J0gk5TA7U=
+		uoTakrnpLO0ZD0rG81aWn5lNagU=
 		</data>
 		<key>DemoSecuritiSDK317-iOS_Simulator.xcarchive/dSYMs/DemoSecuritiSDK317.framework.dSYM/Contents/Resources/Relocations/x86_64/DemoSecuritiSDK317.yml</key>
 		<data>
-		RQWaueQiXlL+4kDTAKKquAPtAGo=
+		3MaYEJkNvc5ReDZVItTW6e7gJd0=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Modules/DemoSecuritiSDK317.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		VHIJfRWEsGOFOuwvI2ouWNDT5Y0=
+		XOJFE7ZOTb1kAiiBvYPBRRIp/wM=
 		</data>
 		<key>create-framework.sh</key>
 		<data>
@@ -115,14 +115,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/Uc7zcaRtarpXgUh/wa7cyCpN0JK092d+vuONWfPhwk=
+			gK8AgpOjVprCPA7tXNUryHthzVXIyVYkex7c+KSxYmc=
 			</data>
 		</dict>
 		<key>DemoSecuritiSDK317-iOS_Simulator.xcarchive/Products/Library/Frameworks/DemoSecuritiSDK317.framework/DemoSecuritiSDK317</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6khcczIp1hO8d1/m40tTK27GKX3VHX0DjPPPTAFndGI=
+			QJl8X7O1T0/nxVTZXnJ6bmvyVRNGRAWT6gPEfM/KM7Y=
 			</data>
 		</dict>
 		<key>DemoSecuritiSDK317-iOS_Simulator.xcarchive/Products/Library/Frameworks/DemoSecuritiSDK317.framework/Info.plist</key>
@@ -164,7 +164,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BiSXCDLcabOQbyicGb/XhUUXPhZiJCfKkZSn4448/Qo=
+			9zoa0LCboKQUf5dJkUsRRb9HQ8AlN6F3n9LKtHEnXJ8=
 			</data>
 		</dict>
 		<key>DemoSecuritiSDK317-iOS_Simulator.xcarchive/Products/Library/Frameworks/DemoSecuritiSDK317.framework/Modules/DemoSecuritiSDK317.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -199,14 +199,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eHGY+kR30y2yOW0+vupBZTTen6GMN12npzPmD1xT9D4=
+			z8x0sDPsD4hewU8rsYiURSJB/otNJWDKRgiTAcWHi9k=
 			</data>
 		</dict>
 		<key>DemoSecuritiSDK317-iOS_Simulator.xcarchive/Products/Library/Frameworks/DemoSecuritiSDK317.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z5roam9ZTKATHt7gKb4lVP9oIefzgJUjdTCUkPTalzY=
+			WjckBuWKuBl6id2SLF8h3LDaAZsv3KiuAJIox/laZJw=
 			</data>
 		</dict>
 		<key>DemoSecuritiSDK317-iOS_Simulator.xcarchive/Products/Library/Frameworks/DemoSecuritiSDK317.framework/create-framework.sh</key>
@@ -227,21 +227,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7/a+FaGKabEOfH+8r7EYA9KiKBkJWRK+DH2CE2Uc63E=
+			un9bllsL3eMa/ZB3/5Uu29hlLXn0aMKgJPnajqdOGRM=
 			</data>
 		</dict>
 		<key>DemoSecuritiSDK317-iOS_Simulator.xcarchive/dSYMs/DemoSecuritiSDK317.framework.dSYM/Contents/Resources/Relocations/aarch64/DemoSecuritiSDK317.yml</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lopqlTDT28uYrzKmTJOzGeqMMFv3GTkRF3P7mPnvJJA=
+			1tQG7wVAlU40MMzNGqk9s24OYdsI+7UYx4sJMyKvRmA=
 			</data>
 		</dict>
 		<key>DemoSecuritiSDK317-iOS_Simulator.xcarchive/dSYMs/DemoSecuritiSDK317.framework.dSYM/Contents/Resources/Relocations/x86_64/DemoSecuritiSDK317.yml</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yy/phd+lQUOBbEKy3DLbHD3ZVghmt8NRUsdWvXR0jfU=
+			ERvMWhJrFgPz8ozvZs390nc5t2tE0UuzAvpPGrACq3s=
 			</data>
 		</dict>
 		<key>Modules/DemoSecuritiSDK317.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -276,7 +276,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GK/dDlp4xVy5JPGIlrlmKRH95KNjIRR9Aj1sLhkuXjU=
+			q9iFl3Tr/JLBqIBpqsMX/EZspPlCpGIBbcCHn6CG6jI=
 			</data>
 		</dict>
 		<key>create-framework.sh</key>
